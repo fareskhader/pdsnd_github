@@ -7,8 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 usa bikrshare
 ### Description
-Describe what your project is about and what it does
-
+docs:update the readme file in documentation
 ### Files used
 Include the files used
 washington.csv
