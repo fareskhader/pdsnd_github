@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 from os import system, name
-
+##edit python file
 def clear():
     if name == 'nt':
         system('cls')
@@ -197,6 +197,6 @@ def main():
             clear()
             break
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     clear()
     main()
